@@ -1,16 +1,14 @@
 package com.chujianyun.basic;
 
 import org.junit.Test;
-import sun.tools.java.ScannerInputReader;
 
-import java.io.BufferedReader;
 import java.io.UnsupportedEncodingException;
 import java.util.*;
 import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
 /**
- * @author 刘汪洋 liuwangyang@corp.netease.com
+ * @author 刘汪洋 w1251314@sohu.com
  * @date 2018/06/01
  */
 public class StreamDemo {

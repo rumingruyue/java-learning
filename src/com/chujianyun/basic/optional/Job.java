@@ -1,7 +1,7 @@
 package com.chujianyun.basic.optional;
 
 /**
- * @author 刘汪洋 liuwangyang@corp.netease.com
+ * @author 刘汪洋 w1251314@sohu.com
  * @date 2018/06/12
  */
 public class Job {
