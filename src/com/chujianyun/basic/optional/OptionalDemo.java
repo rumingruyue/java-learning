@@ -12,7 +12,6 @@ public class OptionalDemo {
 
     @Test
     public void test(){
-
         System.out.println(getJob());
     }
 
