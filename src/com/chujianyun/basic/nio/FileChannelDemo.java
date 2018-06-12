@@ -8,7 +8,7 @@ import java.nio.ByteBuffer;
 import java.nio.channels.FileChannel;
 
 /**
- * @author 刘汪洋 w1251314@sohu.com
+ * @author 明明如月 w1251314@sohu.com
  * @date 2018/06/09
  */
 public class FileChannelDemo {

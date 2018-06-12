@@ -1,7 +1,7 @@
 package com.chujianyun.basic.annotation;
 
 /**
- * @author 刘汪洋 w1251314@sohu.com
+ * @author 明明如月 w1251314@sohu.com
  * @date 2018/06/01
  */
 public class Apple {
