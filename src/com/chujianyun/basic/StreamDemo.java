@@ -16,6 +16,7 @@ public class StreamDemo {
 
     @Test
     public  void stringList() {
+        //测试master
         List<String> out = Arrays.asList("first","second");
         List<String> collect = out.stream().map(String::toUpperCase)
                 .collect(Collectors.toList());
