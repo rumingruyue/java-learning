@@ -38,4 +38,15 @@ public class FileChannelDemo {
 
 
     }
+
+    @Test
+    public void currentTime(){
+        System.out.println(System.currentTimeMillis());
+    }
+
+    @Test
+    public void last(){
+        String url ="dfdfdfd/";
+        System.out.println(url.charAt(url.length()-1));
+    }
 }
